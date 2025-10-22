@@ -1,4 +1,4 @@
 panda
 streamlit
-matploylib
+matplotlib
 seaborn
